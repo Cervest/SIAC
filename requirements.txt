@@ -9,3 +9,4 @@ scipy>=1.0.0
 gdal>=2.1
 numba
 pyproj
+pillow>=8.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
